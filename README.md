@@ -1,4 +1,4 @@
-![Project Preview](./todo-app.PNG)
+![Project Preview](./todo-app.png)
 
 ## Installation & Set Up
 
